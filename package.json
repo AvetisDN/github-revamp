@@ -3,7 +3,7 @@
     "publisher": "Avetis",
     "displayName": "github-revamp",
     "description": "GitHub Revamp: clean dark theme based on GitHub color palette",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "icon": "icons/revamp.png",
     "repository": {
         "type": "git",
