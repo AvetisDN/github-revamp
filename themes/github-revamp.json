@@ -264,13 +264,20 @@
     },
     {
       "scope": [
-        "constant",
-        "entity.name.constant",
         "variable.other.constant",
         "variable.language"
       ],
       "settings": {
-        "foreground": "#51a4e8"
+        "foreground": "#6e7ef5"
+      }
+    },
+    {
+      "scope": [
+        "constant",
+        "entity.name.constant"
+      ],
+      "settings": {
+        "foreground": "#5cc4ba"
       }
     },
     {
