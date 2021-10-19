@@ -2,4 +2,6 @@
 
 GitHub Revamp: clean dark theme based on GitHub color palette
 
-![](https://i.imgur.com/XRtTbDM.png)
+![Revamp](https://i.imgur.com/KqMOJxo.png)
+
+![Revamp Alt](https://i.imgur.com/t1QpcHy.png)
