@@ -4,6 +4,11 @@
     "displayName": "github-revamp",
     "description": "GitHub Revamp: clean dark theme based on GitHub color palette",
     "version": "0.0.1",
+    "icon": "icons/revamp.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AvetisDN/github-revamp"
+    },
     "engines": {
         "vscode": "^1.61.0"
     },
